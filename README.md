@@ -141,7 +141,7 @@ I attempted to identify features that impacts respondents choices.
 Here's the example of [SHAP values](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf) 
 for "Diversity of the company and organization":
  
-<p align="center"><img vertical-align="middle" src="img/diversity.png"/></p>
+<p align="center"><img vertical-align="middle" src="img/diversity.PNG"/></p>
 
 
 > Shapley Values are extremely easy to interpret. Here are the rules You should follow to interpret the graph Yourself:
