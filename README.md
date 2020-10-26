@@ -83,21 +83,21 @@ I used standard Data Pythonist tool kit:
 
 * Others: networkx, cycler, warnings, typing, warnings
 <p align="center">
-    <img src="img/readme/pandas.png#thumbnail"/> 
-    <img src="img/readme/np.png#thumbnail"/> 
-    <img src="img/readme/mtp.svg#thumbnail"/> 
-    <img src="img/readme/scipy.png#thumbnail"/> 
-    <img src="img/readme/sns.svg#thumbnail"/>
-    <img src="img/readme/cb.png#thumbnail"/> 
-    <img src="img/readme/xgb.png#thumbnail"/> 
-    <img src="img/readme/skl.png#thumbnail"/>
-    <img src="img/readme/shap.png#thumbnail"/>
+    <img width="80" vertical-align="middle" src="img/readme/pandas.png#thumbnail"/> 
+    <img width="80" vertical-align="middle" src="img/readme/np.png#thumbnail"/> 
+    <img width="80" vertical-align="middle" src="img/readme/mtp.svg#thumbnail"/> 
+    <img width="80" vertical-align="middle" src="img/readme/scipy.png#thumbnail"/> 
+    <img width="80" vertical-align="middle" src="img/readme/sns.svg#thumbnail"/>
+    <img width="80" vertical-align="middle" src="img/readme/cb.png#thumbnail"/> 
+    <img width="80" vertical-align="middle" src="img/readme/xgb.png#thumbnail"/> 
+    <img width="80" vertical-align="middle" src="img/readme/skl.png#thumbnail"/>
+    <img width="80" vertical-align="middle" src="img/readme/shap.png#thumbnail"/>
 </p>
 
 And last, but not least: **jupyter** 
 (using jupyter lab introduced some undefined behaviour of environment management, so I decided to stay in **jupyter notebook**)
 
-<p align="center"><img src="img/readme/jupyter.svg#thumbnail"/></p>
+<p align="center"><img width="80" vertical-align="middle" src="img/readme/jupyter.svg#thumbnail"/></p>
 
 ## Results & conclusions
 
@@ -109,7 +109,7 @@ A similar number of respondents have chosen also **Opportunities for professiona
 These four emerged as dominant among others.
 
 On the lower side of the list, we have just about 7% of respondents that picked the **Diversity** of the company or organization as the most important factor when taking a job offer.
-<p align="center"><img src="img/bar1.png"/></p>
+<p align="center"><img vertical-align="middle" src="img/bar1.png"/></p>
 
 ### 2. Which factors tends to be chosen together and why? Are there any patterns in respondents choices?
 Based on standardized percentage of respondents choices it was possible to handle
@@ -132,7 +132,7 @@ The group of developers choosing these options could consist of persons that req
 Respondents choosing these two are overlapping much, that’s why “Family friendliness” occurs in both as the factor they tend to chose more likely, 
 while they both less often care about their impact on the reality, which confirms the hypothesis ‘Convenience first’.
 
-<p align="center"><img src="img/graph.png"/></p>
+<p align="center"><img vertical-align="middle" src="img/graph.png"/></p>
 
 
 ### 3. What impact respondents' choices?
@@ -141,7 +141,7 @@ I attempted to identify features that impacts respondents choices.
 Here's the example of [SHAP values](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf) 
 for "Diversity of the company and organization":
  
-<p align="center"><img src="img/diversity.png"/></p>
+<p align="center"><img vertical-align="middle" src="img/diversity.png"/></p>
 
 
 > Shapley Values are extremely easy to interpret. Here are the rules You should follow to interpret the graph Yourself:
