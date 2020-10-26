@@ -1,6 +1,6 @@
 <p align="center"><img src="img/readme/so.png" width="300" vertical-align="middle"/> </p>
 
-# What impacts developers' job expectations? - StackOverflow Survey 2020 Summary 
+# What impacts developers' job preferences? - StackOverflow Survey 2020 Summary 
 
 
 Welcome to repository created on purpose of 
